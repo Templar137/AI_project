@@ -1,7 +1,9 @@
 # SC2 Cinematic video super resolution using Deep Learning
 
 Hello, everyone! I planned to remaster lotv opening trailer so as to make better video using deeplearning model. 
+
 I used LRDTN, Light Residual Dense Transpse Network, which orginates from RDN, Residual Dense Network. 
+
 I mainly used tensorflow, keras, and cv2 when progressing this project
 
 # Data preprecessing
