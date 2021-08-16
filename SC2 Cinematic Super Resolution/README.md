@@ -4,7 +4,7 @@ Hello, everyone! I planned to remaster lotv opening trailer so as to make better
 I used LRDTN, Light Residual Dense Transpse Network, which orginates from RDN, Residual Dense Network.
 I mainly used tensorflow, keras, and cv2 when progressing this project
 
-#Data preprecessing
+# Data preprecessing
 I used train and test data from lotv opening video, but I composed two dataset with no overlapping between them.
 I made many frames through cv2, and I used data augmentation only flip.
 and I also used cv2 when making image to video after predicting the images.
