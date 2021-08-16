@@ -1,4 +1,4 @@
-# SC2 Cinematic video super resolution using Deep Learning
+# SC2 Cinematic video Super Resolution using Deep Learning
 
 Hello, everyone! I planned to remaster lotv opening trailer so as to make better video using deeplearning model. 
 
